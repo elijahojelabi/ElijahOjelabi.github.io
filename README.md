@@ -11,6 +11,16 @@
 
 
 ## Work Experience 
+**Operations Customer Service Representative @ Intelcom			  (_2025 - present_)**
+- Handled  inbound  and  outbound  communications,  including  phone  calls,  emails,  and  client  correspondence, 
+ supporting business development and customer engagement.
+- Coordinated  daily  office  operations  to  ensure  workflow  efficiency  and  adherence  to  company  policies  and 
+ procedures.
+- Organized  and  maintained  physical  and  digital  records,  ensuring  accuracy,  confidentiality,  and  compliance 
+ with data management standards.
+- Generated  reports  from  internal  systems  to  track  service  metrics,  identify  trends,  and  support  decision-making 
+ across operations and customer service teams.
+
 **Freelance Data Analyst/ Power BI developer @ Upwork			  (_2023 - 2025_)**
 - Wrangle Data to make it more relevant for visualisation.
 - Model and format data for easy aggregation and comparison using DAX functions.
