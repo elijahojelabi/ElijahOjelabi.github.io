@@ -1,8 +1,8 @@
-# Data Scientist/ Data Analyst
+# AI & Data Science Graduate|Machine Learning Data Scientist • Predictive Analytics • Business Intelligence • Data Analytics 
 **Technical Skills: Python, SQL, MATLAB, Power BI, Excel , Tableau**
 
 ## Education
-- PG Cert. AI and Data Science |  Loyalist College, Belleville, ON (In -View)
+- PG Cert. AI and Data Science |  Loyalist College, Belleville, ON (2026)
 
 - PGD. Computer Science |  Babcock University, Ilishan - Remo (2024)
 
@@ -12,14 +12,17 @@
 
 ## Work Experience 
 **Operations Customer Service Representative @ Intelcom			  (_2025 - present_)**
-- Handled  inbound  and  outbound  communications,  including  phone  calls,  emails,  and  client  correspondence, 
- supporting business development and customer engagement.
-- Coordinated  daily  office  operations  to  ensure  workflow  efficiency  and  adherence  to  company  policies  and 
- procedures.
-- Organized  and  maintained  physical  and  digital  records,  ensuring  accuracy,  confidentiality,  and  compliance 
- with data management standards.
-- Generated  reports  from  internal  systems  to  track  service  metrics,  identify  trends,  and  support  decision-making 
- across operations and customer service teams.
+- Analyze operational performance data and KPI metrics to identify trends, evaluate service effectiveness, and 
+deliver data-driven recommendations that support operational excellence, continuous improvement, and 
+strategic business objectives. 
+- Maintain and validate operational datasets and reporting records, ensuring data accuracy, integrity, and 
+accessibility for performance monitoring, decision-making, and continuous improvement initiatives.  
+- Partner with operations, customer service, and administrative teams to streamline workflows, improve 
+reporting processes, and enhance service delivery through evidence-based problem solving and performance 
+analysis.  
+- Utilize analytical, communication, and stakeholder-management skills to resolve operational challenges, 
+support customer experience improvements, and drive measurable improvements in efficiency and operational 
+performance.
 
 **Freelance Data Analyst/ Power BI developer @ Upwork			  (_2023 - 2025_)**
 - Wrangle Data to make it more relevant for visualisation.
@@ -29,15 +32,29 @@
 
 
 **Data Analyst @ Terra learning (_2022 - 2023_)**
-- Resolved issues within Power BI to maintain report accuracy and functionality.
-- Published and scheduled Power BI reports to provide stakeholders with up-to-date insights.
-- Analyzed business requirements and developed data models tailored to meet specific organizational needs.
-
+- Developed, optimized, and maintained interactive Power BI dashboards and business intelligence solutions, 
+transforming complex datasets into actionable insights that supported performance monitoring, strategic 
+planning, and data-driven decision-making across multiple business functions.  
+- Gathered and analyzed stakeholder requirements, designed scalable data models, and established KPI 
+frameworks that improved reporting accessibility, enhanced analytical capabilities, and enabled more effective 
+performance measurement and business evaluation.  
+- Automated, scheduled, and published Power BI reports while performing data cleansing, transformation, 
+validation, and quality assurance activities, improving reporting accuracy, consistency, and operational 
+efficiency across reporting processes.  
+- Collaborated closely with business stakeholders to define reporting metrics, troubleshoot visualization 
+challenges, and deliver meaningful analytical recommendations that supported continuous improvement 
+initiatives and organizational objectives. 
 
 **Assistant Admnistrative @ Okhma Global (_2021 - 2022_)**
-- Created Key performance indicator and dashboard for reporting weekly activity progress and budget performance using Powerpoint, Canva and MS Excel. 
-- Oversaw  all information and implement analytics solutions. 
-- Established methods and procedures to convert unprocessed data into relevate data.
+- Maintained and organized business records, operational data, and documentation systems, ensuring high 
+standards of data accuracy, integrity, compliance, and accessibility to support reporting, operational planning, 
+and informed decision-making.  
+- Developed reports, presentations, and management documentation using Microsoft Excel, PowerPoint, and 
+other productivity tools, translating business information into actionable insights that enhanced 
+communication, performance tracking, and stakeholder engagement.  
+- Collaborated with cross-functional teams to coordinate administrative processes, manage information flow, 
+and support daily business operations, contributing to improved efficiency, streamlined workflows, and 
+effective organizational support in a fast-paced environment. 
 
 
 **Project Intern @ LEE Engineering & Construction Co. Ltd (_2020_)**
@@ -60,6 +77,17 @@
  Analysis on Student Adaptivity on Online Education
 
  EDA on Employee Attritution 
+## Volunteer Experience
+**Administrative Assistant | Belleville and Quinte West Community Health Centre      (_2024 - Present_)**
+- Manage and maintain organizational records, operational data, and information management systems, ensuring 
+data accuracy, confidentiality, compliance, and accessibility to support reporting, service delivery, and 
+informed decision-making.
+- Streamlined administrative and record-management processes, contributing to a 15% improvement in 
+operational efficiency through enhanced information accessibility, reduced retrieval delays, and improved 
+workflow effectiveness.
+- Collaborate with healthcare professionals and community stakeholders to coordinate operational activities, 
+resolve inquiries, and support evidence-based decision-making through effective communication, stakeholder 
+engagement, and information management.
 
 ## Publications
 - Nzenwata U. J., Barn-Nzekwe C. L. , Ojelabi E. O, Oduware O., Atalor. P. E., Yisau Y., Adeyela A. T., Nwanguma E. C., Emokiniovo E., Osisanya O.A. A Systematic Review of Generative AI in Education(2024). DOI: 10.12691/jcsa-12-1-4
